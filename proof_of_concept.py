@@ -12,17 +12,15 @@ import apache_log_parser
 #What are the odds that this number of known words exist in a request
 #Multiply the odds of successive requests to get the odds of the batch of successive requests?
 
-line_parser = apache_log_parser.make_parser("%h - - %t \"%r\" %>s %b")
+#Problem: How do we prevent users from simply injecting new words to avoid detection?
 
-#print line_parser('ppp111.cs.mci.com - - [01/Jul/1995:00:16:03 -0400] "GET /shuttle/missions/sts-74/mission-sts-74.html HTTP/1.0" 200 3707')
-#exit()
-#print log_line_data1['request_first_line'].split("/")
-#print log_line_data1
+line_parser = apache_log_parser.make_parser("%h - - %t \"%r\" %>s %b")
 
 array = []
 limit = 10000
 count = 0
 
+#Read the file and add the tokens to a count vectorizer
 with open("access_log_Jul95-3", "r") as ins:
     for line in ins:
         if count < limit:
@@ -44,7 +42,9 @@ X_train_counts.shape
 limit = 0
 match_prop_dict = {}
 scores_for_host = {}
+tokens_used = []
 
+#Get a list of tokens from file
 with open("access_log_Jul95-3", "r") as ins:
     for line in ins:
         parsed_line = line_parser(line)
@@ -53,7 +53,7 @@ with open("access_log_Jul95-3", "r") as ins:
         matches = 0
         for token in token_list:
             if count_vect.vocabulary_.has_key(token):
-                print token
+                tokens_used.append(token)
                 matches += 1
                 
         if match_prop_dict.has_key(matches) == False:
@@ -65,6 +65,7 @@ with open("access_log_Jul95-3", "r") as ins:
         if limit >= count:
             break
 
+print tokens_used
 print match_prop_dict
 
 sum_of_all_matched_items = math.fsum(match_prop_dict.values()) 
@@ -80,6 +81,7 @@ scores_for_host = {}
 limit = 0
 count = 11     
 
+#Compute match scores for each host
 #with open("acccess_log_Jul95-3_scalp_hacker_access", "r") as ins:
 with open("access_log_Jul95-3_end", "r") as ins:
     for line in ins:
@@ -89,7 +91,6 @@ with open("access_log_Jul95-3_end", "r") as ins:
         matches = 0
         for token in token_list:
             if count_vect.vocabulary_.has_key(token):
-                print token
                 matches += 1
         
         if scores_for_host.has_key(parsed_line['remote_host']) == False:
