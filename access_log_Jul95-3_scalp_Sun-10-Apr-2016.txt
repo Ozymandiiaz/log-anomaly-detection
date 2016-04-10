@@ -1,0 +1,644 @@
+
+	utr0070.pi.net - - [01/Jul/1995:02:38:51 -0400] "GET /shuttle/countdown/./video/livevideo.gif HTTP/1.0" 200 49152
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	utr0087.pi.net - - [01/Jul/1995:14:26:57 -0400] "GET /shuttle/countdown/./video/livevideo.gif HTTP/1.0" 200 53137
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	utr0087.pi.net - - [01/Jul/1995:14:27:10 -0400] "GET /shuttle/countdown/./video/livevideo.gif HTTP/1.0" 200 49152
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	bigbird.accugraph.com - - [01/Jul/1995:20:49:18 -0400] "GET /shuttle/countdown/./video/livevideo.gif HTTP/1.0" 200 57344
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	205.160.228.22 - - [02/Jul/1995:00:30:45 -0400] "GET /shuttle/countdown/./video/livevideo.gif HTTP/1.0" 200 20833
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	pm-03.qbc.clic.net - - [02/Jul/1995:03:39:35 -0400] "GET /shuttle/countdown/./video/livevideo.gif HTTP/1.0" 200 51978
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	corp-uu.infoseek.com - - [02/Jul/1995:05:17:57 -0400] "GET /shuttle/technology/sts-newsref/sts_asm.htm= HTTP/1.0" 404 -
+	Reason: "Detects JavaScript location/document property access and window access obfuscation"
+
+	utr0022.pi.net - - [02/Jul/1995:10:25:58 -0400] "GET /shuttle/countdown/./video/livevideo.gif HTTP/1.0" 200 77612
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	205.160.228.21 - - [02/Jul/1995:21:10:12 -0400] "GET /shuttle/countdown/./video/livevideo.gif HTTP/1.0" 200 49152
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	205.160.228.21 - - [02/Jul/1995:21:11:08 -0400] "GET /shuttle/countdown/./video/livevideo.gif HTTP/1.0" 200 46889
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	ppp5.cent.com - - [02/Jul/1995:23:24:48 -0400] "GET /shuttle/countdown/./video/livevideo.gif HTTP/1.0" 200 63719
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	ruurbe.sron.ruu.nl - - [03/Jul/1995:03:24:28 -0400] "GET /payloads/schedules/.cap/manifest HTTP/1.0" 200 28
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	bhill.osma.hq.nasa.gov - - [03/Jul/1995:07:39:56 -0400] "GET /shuttle/countdown/./video/livevideo.gif HTTP/1.0" 200 66655
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	199.108.6.120 - - [03/Jul/1995:15:05:07 -0400] "GET /shuttle/countdown/./video/livevideo.gif HTTP/1.0" 200 61490
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	dynamic176-34.ip.portal.com - - [03/Jul/1995:15:48:39 -0400] "GET /shuttle/countdown/./video/livevideo.gif HTTP/1.0" 200 61490
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	limeppp25.kosone.com - - [03/Jul/1995:20:37:56 -0400] "GET /shuttle/countdown/./video/livevideo.gif HTTP/1.0" 200 61490
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	156.27.111.3 - - [03/Jul/1995:23:39:12 -0400] "GET /shuttle/countdown/./video/livevideo.gif HTTP/1.0" 200 61490
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	utr0077.pi.net - - [04/Jul/1995:14:08:49 -0400] "GET /shuttle/countdown/./video/livevideo.gif HTTP/1.0" 200 61490
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	ams35.pi.net - - [04/Jul/1995:16:30:55 -0400] "GET /shuttle/countdown/./video/livevideo.gif HTTP/1.0" 200 61490
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	slip7-25.fl.us.ibm.net - - [04/Jul/1995:19:22:53 -0400] "GET /shuttle/countdown/./video/livevideo.gif HTTP/1.0" 200 61490
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	aholmon.iquest.com - - [05/Jul/1995:01:24:49 -0400] "GET /mdss/srqa/../MDSS.html HTTP/1.0" 200 2727
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	du14.tk.mesh.ad.jp - - [05/Jul/1995:12:55:04 -0400] "GET /shuttle/countdown/./video/livevideo2.gif HTTP/1.0" 200 66554
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	igor.levels.unisa.edu.au - - [05/Jul/1995:19:58:10 -0400] "GET /payloads/schedules/.cap/manifest   HTTP/1.0" 200 28
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	anc-p1-49.alaska.net - - [06/Jul/1995:04:00:23 -0400] "GET /shuttle/countdown/./video/livevideo2.gif HTTP/1.0" 200 66554
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	n1jdk.mv.com - - [06/Jul/1995:15:12:45 -0400] "GET /shuttle/countdown/./video/livevideo.jpeg HTTP/1.0" 200 38418
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	ns1.seagate.com - - [06/Jul/1995:21:11:00 -0400] "GET /shuttle/countdown/./video/livevideo2.gif HTTP/1.0" 200 66554
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	quadra4.cs.uop.edu - - [06/Jul/1995:22:36:44 -0400] "GET /msfc/.bash_history HTTP/1.0" 200 2660
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	199.117.203.111 - - [07/Jul/1995:09:26:59 -0400] "GET /shuttle/countdown/./video/livevideo2.gif HTTP/1.0" 200 57344
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	199.117.203.111 - - [07/Jul/1995:09:27:25 -0400] "GET /shuttle/countdown/./video/livevideo2.gif HTTP/1.0" 200 65536
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	dobro.nc5.infi.net - - [07/Jul/1995:10:22:27 -0400] "GET /shuttle/countdown/./video/livevideo2.gif HTTP/1.0" 200 57344
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	abcworks.demon.co.uk - - [07/Jul/1995:10:24:34 -0400] "GET /mdss/srqa/../MDSS.html HTTP/1.0" 200 2727
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	ssmith.osma.hq.nasa.gov - - [07/Jul/1995:11:44:14 -0400] "GET /shuttle/countdown/./video/livevideo.gif HTTP/1.0" 200 76787
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	ad14-016.compuserve.com - - [07/Jul/1995:22:46:23 -0400] "GET /history/apollo/apollo-13/apollo13/.html HTTP/1.0" 404 -
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	stat11.hacom.nl - - [08/Jul/1995:07:30:27 -0400] "GET /shuttle/.html HTTP/1.0" 404 -
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	38.11.100.217 - - [08/Jul/1995:14:58:08 -0400] "GET /shuttle/countdown/./video/landing.gif HTTP/1.0" 200 75486
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	129.247.161.15 - - [10/Jul/1995:08:43:52 -0400] "GET /payloads/schedules/.cap/manifest HTTP/1.0" 200 28
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	nameserver.pwfl.com - - [10/Jul/1995:16:24:13 -0400] "GET /shuttle/countdown/./video/landing.gif HTTP/1.0" 200 75486
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	bloc.rbgsyd.gov.au - - [11/Jul/1995:23:04:13 -0400] "GET /shuttle/countdown/./video/livevideo.gif HTTP/1.0" 200 3544
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	dal19.onramp.net - - [12/Jul/1995:08:23:00 -0400] "GET /shuttle/countdown/./video/livevideo.gif HTTP/1.0" 200 72417
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	dal19.onramp.net - - [12/Jul/1995:08:28:47 -0400] "GET /shuttle/countdown/./video/livevideo.gif HTTP/1.0" 200 72580
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	161.40.50.62 - - [12/Jul/1995:12:47:04 -0400] "GET /shuttle/missions/sts-71/images/KSC-95EC-0915.giffile://localhost/home/treybig/mike.html HTTP/1.0" 404 -
+	Reason: "Detects IE firefoxurl injections, cache poisoning attempts and local file inclusion/execution"
+
+	161.40.50.62 - - [12/Jul/1995:12:59:22 -0400] "GET /shuttle/missions/sts-71/images/KSC-95EC-0915.giffile://localhost/home/treybig/mike.html HTTP/1.0" 404 -
+	Reason: "Detects IE firefoxurl injections, cache poisoning attempts and local file inclusion/execution"
+
+	gatekeeper.mitre.org - - [12/Jul/1995:13:32:52 -0400] "GET /mdss/srqa/../MDSS.html HTTP/1.0" 200 2727
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	ip227.baltimore.md.interramp.com - - [12/Jul/1995:13:54:43 -0400] "GET /shuttle/countdown/./video/livevideo.gif HTTP/1.0" 200 49152
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	nameserver.pwfl.com - - [12/Jul/1995:16:11:10 -0400] "GET /shuttle/countdown/./video/livevideo.gif HTTP/1.0" 200 0
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	129.162.205.5 - - [12/Jul/1995:18:14:45 -0400] "GET /shuttle/countdown/./video/livevideo.gif HTTP/1.0" 200 75193
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	defi1-cs-3.dial.bright.net - - [12/Jul/1995:19:04:43 -0400] "GET /shuttle/countdown/./video/livevideo2.gif HTTP/1.0" 200 72666
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	defi1-cs-3.dial.bright.net - - [12/Jul/1995:19:07:21 -0400] "GET /shuttle/countdown/./video/livevideo2.gif HTTP/1.0" 200 72666
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	defi1-cs-3.dial.bright.net - - [12/Jul/1995:19:09:03 -0400] "GET /shuttle/countdown/./video/livevideo2.gif HTTP/1.0" 200 72666
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	johnson-steve.metrokc.gov - - [12/Jul/1995:19:38:36 -0400] "GET /msfc/.bash_history HTTP/1.0" 200 2660
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	find1-cs-1.dial.bright.net - - [13/Jul/1995:00:10:05 -0400] "GET /shuttle/countdown/./video/livevideo2.gif HTTP/1.0" 200 72666
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	dynamic176-36.ip.portal.com - - [13/Jul/1995:02:23:10 -0400] "GET /shuttle/countdown/./video/livevideo2.gif HTTP/1.0" 200 72666
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	erigate.ericsson.se - - [13/Jul/1995:04:38:36 -0400] "GET /htbin/cdt_clock/.pl HTTP/1.0" 404 -
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	dal01.onramp.net - - [13/Jul/1995:07:45:23 -0400] "GET /mdss/srqa/../MDSS.html HTTP/1.0" 200 2727
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	ppp104.awod.com - - [13/Jul/1995:09:16:06 -0400] "GET /shuttle/countdown/./video/livevideo.gif HTTP/1.0" 200 74095
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	ppp104.awod.com - - [13/Jul/1995:09:20:06 -0400] "GET /shuttle/countdown/./video/livevideo.gif HTTP/1.0" 200 72666
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	ppp104.awod.com - - [13/Jul/1995:09:24:13 -0400] "GET /shuttle/countdown/./video/livevideo.gif HTTP/1.0" 200 73728
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	ppp104.awod.com - - [13/Jul/1995:09:33:06 -0400] "GET /shuttle/countdown/./video/livevideo.gif HTTP/1.0" 200 74336
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	ppp104.awod.com - - [13/Jul/1995:09:36:11 -0400] "GET /shuttle/countdown/./video/livevideo.gif HTTP/1.0" 200 73728
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	nameserver.pwfl.com - - [13/Jul/1995:10:06:23 -0400] "GET /shuttle/countdown/./video/livevideo.gif HTTP/1.0" 200 81803
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	nameserver.pwfl.com - - [13/Jul/1995:10:13:33 -0400] "GET /shuttle/countdown/./video/livevideo.jpeg HTTP/1.0" 200 46973
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	ppp113.awod.com - - [13/Jul/1995:10:15:18 -0400] "GET /shuttle/countdown/./video/livevideo.gif HTTP/1.0" 200 48636
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	pc1085.sph.umich.edu - - [13/Jul/1995:10:30:32 -0400] "GET /history/.history.html HTTP/1.0" 404 -
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	lei91.pi.net - - [13/Jul/1995:15:00:00 -0400] "GET /shuttle/countdown/./video/livevideo2.gif HTTP/1.0" 200 65576
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	ad10-003.compuserve.com - - [14/Jul/1995:06:33:36 -0400] "GET /shuttle/countdown/./video/livevideo2.gif HTTP/1.0" 200 65576
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	utr0047.pi.net - - [14/Jul/1995:10:20:59 -0400] "GET /shuttle/countdown/./video/livevideo2.gif HTTP/1.0" 200 65576
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	utr0047.pi.net - - [14/Jul/1995:10:40:13 -0400] "GET /shuttle/countdown/./video/livevideo2.gif HTTP/1.0" 200 57344
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	utr0047.pi.net - - [14/Jul/1995:10:47:49 -0400] "GET /shuttle/countdown/./video/livevideo2.gif HTTP/1.0" 200 57344
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	pcfroe.co.kp.dlr.de - - [14/Jul/1995:11:06:15 -0400] "GET /payloads/schedules/.cap/manifest HTTP/1.0" 200 28
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	pcfroe.co.kp.dlr.de - - [14/Jul/1995:11:06:49 -0400] "GET /payloads/schedules/.cap/manifest HTTP/1.0" 200 28
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	utr0047.pi.net - - [14/Jul/1995:11:10:13 -0400] "GET /shuttle/countdown/./video/livevideo2.gif HTTP/1.0" 200 65576
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	som.stratus.com - - [14/Jul/1995:11:54:47 -0400] "GET /shuttle/countdown/./video/livevideo2.gif HTTP/1.0" 200 65576
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	198.30.167.199 - - [14/Jul/1995:12:03:55 -0400] "GET /shuttle/countdown/./video/livevideo2.gif HTTP/1.0" 200 65576
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	ppp014.st.rim.or.jp - - [14/Jul/1995:12:38:12 -0400] "GET /shuttle/countdown/./video/livevideo2.gif HTTP/1.0" 200 65576
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	hound.esc.k12.in.us - - [15/Jul/1995:09:48:22 -0400] "GET /shuttle/countdown/./video/livevideo2.gif HTTP/1.0" 200 65536
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	ip152.houston.tx.interramp.com - - [15/Jul/1995:22:12:51 -0400] "GET /shuttle/countdown/./video/livevideo2.gif HTTP/1.0" 200 65576
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	145.220.197.88 - - [16/Jul/1995:08:06:27 -0400] "GET /shuttle/countdown/./video/livevideo2.gif HTTP/1.0" 200 65576
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	bhill.osma.hq.nasa.gov - - [17/Jul/1995:11:27:17 -0400] "GET /shuttle/countdown/./video/livevideo2.gif HTTP/1.0" 200 65576
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	utr0055.pi.net - - [17/Jul/1995:16:33:40 -0400] "GET /shuttle/countdown/./video/livevideo2.gif HTTP/1.0" 200 49152
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	utr0055.pi.net - - [17/Jul/1995:16:34:08 -0400] "GET /shuttle/countdown/./video/livevideo2.gif HTTP/1.0" 200 65536
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	utr0055.pi.net - - [17/Jul/1995:16:34:29 -0400] "GET /shuttle/countdown/./video/livevideo2.gif HTTP/1.0" 200 57344
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	port7.mhill.ind.net - - [17/Jul/1995:18:42:46 -0400] "GET /shuttle/countdown/./video/livevideo2.gif HTTP/1.0" 200 65576
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	carlislr.cici.com - - [17/Jul/1995:21:09:37 -0400] "GET /shuttle/countdown/./video/livevideo2.gif HTTP/1.0" 200 65576
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	carlislr.cici.com - - [17/Jul/1995:21:11:26 -0400] "GET /shuttle/countdown/./video/livevideo.jpeg HTTP/1.0" 200 40129
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	utr0020.pi.net - - [18/Jul/1995:03:18:51 -0400] "GET /shuttle/countdown/./video/livevideo2.gif HTTP/1.0" 200 57344
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	utr0017.pi.net - - [18/Jul/1995:11:35:55 -0400] "GET /shuttle/countdown/./video/livevideo2.gif HTTP/1.0" 200 49152
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	titan02f - - [18/Jul/1995:15:36:42 -0400] "GET /cgi-bin/BrokerQuery.pl?query=oms%04%06%06&host=titan04.ksc.nasa.gov%3A8501&caseflag=on&wordflag=on&errorflag=0&opaqueflag=on&descflag=on&verbose=on&maxresultflag=50 HTTP/1.0" 500 0
+	Reason: "Detects nullbytes and other dangerous characters"
+
+	ntic.qc.ca - - [18/Jul/1995:15:54:02 -0400] "GET /shuttle/countdown/./video/livevideo2.gif HTTP/1.0" 200 65576
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	utr0065.pi.net - - [19/Jul/1995:01:53:04 -0400] "GET /shuttle/countdown/./video/livevideo2.gif HTTP/1.0" 200 49152
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	cbxguy.vip.best.com - - [19/Jul/1995:06:06:28 -0400] "GET /mdss/ped/acs/.bash_history HTTP/1.0" 200 2978
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	204.28.17.41 - - [19/Jul/1995:14:22:06 -0400] "GET /shuttle/countdown/./video/livevideo2.gif HTTP/1.0" 200 65576
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	128.217.62.81 - - [19/Jul/1995:16:24:50 -0400] "GET /mdss/srqa/../MDSS.html HTTP/1.0" 200 2727
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	dial41.phoenix.net - - [19/Jul/1995:16:40:39 -0400] "GET /shuttle/countdown/./video/livevideo2.gif HTTP/1.0" 200 65576
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	199.98.226.242 - - [19/Jul/1995:17:43:03 -0400] "GET /shuttle/countdown/./video/livevideo2.gif HTTP/1.0" 200 65576
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	200.26.8.18 - - [19/Jul/1995:23:56:08 -0400] "GET /shuttle/countdown/./video/livevideo2.gif HTTP/1.0" 200 65576
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	lei42.pi.net - - [20/Jul/1995:04:34:57 -0400] "GET /shuttle/countdown/./video/livevideo2.gif HTTP/1.0" 200 65576
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	lei39.pi.net - - [20/Jul/1995:07:06:29 -0400] "GET /shuttle/countdown/./video/livevideo2.gif HTTP/1.0" 200 65576
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	hinckley.demon.co.uk - - [20/Jul/1995:16:24:09 -0400] "GET /shuttle/countdown/./video/livevideo2.gif HTTP/1.0" 200 65576
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	hinckley.demon.co.uk - - [20/Jul/1995:16:25:03 -0400] "GET /shuttle/countdown/./video/livevideo.jpeg HTTP/1.0" 200 34369
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	user24.bnn-net.or.jp - - [21/Jul/1995:12:31:22 -0400] "GET /mdss/ped/acs/.bash_history HTTP/1.0" 200 2978
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	rot44.pi.net - - [21/Jul/1995:14:17:17 -0400] "GET /shuttle/countdown/./video/livevideo2.gif HTTP/1.0" 200 65576
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	rot44.pi.net - - [21/Jul/1995:14:30:31 -0400] "GET /shuttle/countdown/./video/livevideo2.gif HTTP/1.0" 200 57344
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	h-bodoni.dc.infi.net - - [21/Jul/1995:17:52:02 -0400] "GET /shuttle/countdown/./video/livevideo2.gif HTTP/1.0" 200 65576
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	utr0094.pi.net - - [22/Jul/1995:03:57:11 -0400] "GET /shuttle/countdown/./video/livevideo2.gif HTTP/1.0" 200 49152
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	utr0094.pi.net - - [22/Jul/1995:05:35:15 -0400] "GET /shuttle/countdown/./video/livevideo2.gif HTTP/1.0" 200 49152
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	bos51.pi.net - - [22/Jul/1995:15:16:46 -0400] "GET /shuttle/countdown/./video/livevideo2.gif HTTP/1.0" 200 49152
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	netport-9.iu.net - - [23/Jul/1995:09:18:17 -0400] "GET /msfc/.bash_history   HTTP/1.0" 200 2915
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	camelot.execpc.com - - [23/Jul/1995:18:19:01 -0400] "GET /shuttle/countdown/./video/livevideo2.gif HTTP/1.0" 200 71319
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	jmauck.xnet.com - - [24/Jul/1995:09:53:29 -0400] "GET /shuttle/countdown/./video/livevideo2.gif HTTP/1.0" 200 71319
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	utr0063.pi.net - - [24/Jul/1995:13:29:07 -0400] "GET /shuttle/countdown/./video/livevideo2.gif HTTP/1.0" 200 57344
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	utr0063.pi.net - - [24/Jul/1995:13:29:34 -0400] "GET /shuttle/countdown/./video/livevideo2.gif HTTP/1.0" 200 65536
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	utr0048.pi.net - - [24/Jul/1995:13:34:20 -0400] "GET /shuttle/countdown/./video/livevideo2.gif HTTP/1.0" 200 71319
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	utr0067.pi.net - - [24/Jul/1995:15:52:41 -0400] "GET /shuttle/countdown/./video/livevideo2.gif HTTP/1.0" 200 71319
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	utr0067.pi.net - - [24/Jul/1995:15:53:24 -0400] "GET /shuttle/countdown/./video/livevideo.jpeg HTTP/1.0" 200 41161
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	utr0067.pi.net - - [24/Jul/1995:16:12:00 -0400] "GET /shuttle/countdown/./video/livevideo2.gif HTTP/1.0" 200 57344
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	dsweetnam.jpl.nasa.gov - - [24/Jul/1995:18:14:31 -0400] "GET /payloads/schedules/.cap/manifest HTTP/1.0" 200 28
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	ams17.pi.net - - [25/Jul/1995:15:27:58 -0400] "GET /shuttle/countdown/./video/livevideo2.gif HTTP/1.0" 200 71319
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	grumpy.ksc.nasa.gov - - [26/Jul/1995:15:16:00 -0400] "GET /careermosaic.com/cm/.com HTTP/1.0" 404 -
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	204.120.229.66 - - [26/Jul/1995:21:58:53 -0400] "GET /shuttle/countdown/./video/livevideo2.gif HTTP/1.0" 200 71319
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	www-a2.proxy.aol.com - - [26/Jul/1995:23:45:00 -0400] "GET /msfc/.bash_history HTTP/1.0" 200 2915
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	slip65-146.ny.us.ibm.net - - [27/Jul/1995:01:23:34 -0400] "GET /shuttle/countdown/./video/livevideo2.gif HTTP/1.0" 200 71319
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	pluto.sc.hq.nasa.gov - - [27/Jul/1995:10:09:51 -0400] "GET /shuttle/countdown/./video/livevideo2.gif HTTP/1.0" 200 71319
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	vyger218.nando.net - - [27/Jul/1995:14:53:02 -0400] "GET /shuttle/countdown/./video/livevideo2.gif HTTP/1.0" 200 71319
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	vyger218.nando.net - - [27/Jul/1995:14:58:50 -0400] "GET /shuttle/countdown/./video/livevideo2.gif HTTP/1.0" 200 49152
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	vyger218.nando.net - - [27/Jul/1995:15:08:26 -0400] "GET /shuttle/countdown/./video/livevideo2.gif HTTP/1.0" 200 57344
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+	bos68.pi.net - - [27/Jul/1995:15:25:53 -0400] "GET /shuttle/countdown/./video/livevideo2.gif HTTP/1.0" 200 57344
+	Reason: "Detects basic obfuscated JavaScript script injections"
+
+
+	### Impact 4
+	202.6.90.68 - - [01/Jul/1995:03:42:18 -0400] "GET /misc/home.map?44,104 HTTP/1.0" 404 -
+	Reason: "Detects JavaScript array properties and methods"
+
+	202.6.90.68 - - [01/Jul/1995:03:42:33 -0400] "GET /misc/home.map?44,104 HTTP/1.0" 404 -
+	Reason: "Detects JavaScript array properties and methods"
+
+	135.134.22.96 - - [03/Jul/1995:07:33:49 -0400] "GET /imagemap.cgi//sts-71.map?321,279 HTTP/1.0" 404 -
+	Reason: "Detects JavaScript array properties and methods"
+
+	135.134.22.96 - - [03/Jul/1995:07:33:59 -0400] "GET /imagemap.cgi//sts-71.map?188,280 HTTP/1.0" 404 -
+	Reason: "Detects JavaScript array properties and methods"
+
+	135.134.22.96 - - [03/Jul/1995:07:34:14 -0400] "GET /imagemap.cgi//sts-71.map?84,220 HTTP/1.0" 404 -
+	Reason: "Detects JavaScript array properties and methods"
+
+	ad06-038.compuserve.com - - [04/Jul/1995:21:32:40 -0400] "GET /misc/home.map?13,16 HTTP/1.0" 404 -
+	Reason: "Detects JavaScript array properties and methods"
+
+	128.194.127.241 - - [06/Jul/1995:09:29:06 -0400] "GET /imagemap.cgi//sts-71.map?245,241 HTTP/1.0" 404 -
+	Reason: "Detects JavaScript array properties and methods"
+
+	cs1-13.all.ptd.net - - [07/Jul/1995:10:04:18 -0400] "GET /imagemap.cgi//launch/launch.map?186,290 HTTP/1.0" 404 -
+	Reason: "Detects JavaScript array properties and methods"
+
+	cs1-13.all.ptd.net - - [07/Jul/1995:10:04:34 -0400] "GET /imagemap.cgi//sts-71.map?334,283 HTTP/1.0" 404 -
+	Reason: "Detects JavaScript array properties and methods"
+
+	cs1-13.all.ptd.net - - [07/Jul/1995:10:04:44 -0400] "GET /imagemap.cgi//sts-71.map?335,288 HTTP/1.0" 404 -
+	Reason: "Detects JavaScript array properties and methods"
+
+	cs1-13.all.ptd.net - - [07/Jul/1995:10:04:55 -0400] "GET /imagemap.cgi//sts-71.map?186,285 HTTP/1.0" 404 -
+	Reason: "Detects JavaScript array properties and methods"
+
+	ix-col1-20.ix.netcom.com - - [12/Jul/1995:19:17:23 -0400] "GET /ismap/image-maps/pccomp/webmap/overview.map?320,134 HTTP/1.0" 404 -
+	Reason: "Detects JavaScript array properties and methods"
+
+	tearnest2.stpaul.ncr.com - - [13/Jul/1995:18:33:31 -0400] "GET /imagemap.cgi//sts-70/home.map?202,284 HTTP/1.0" 404 -
+	Reason: "Detects JavaScript array properties and methods"
+
+	tearnest2.stpaul.ncr.com - - [13/Jul/1995:18:33:43 -0400] "GET /imagemap.cgi//sts-70/home.map?203,280 HTTP/1.0" 404 -
+	Reason: "Detects JavaScript array properties and methods"
+
+	tearnest2.stpaul.ncr.com - - [13/Jul/1995:18:35:30 -0400] "GET /imagemap.cgi//sts-70/home.map?203,285 HTTP/1.0" 404 -
+	Reason: "Detects JavaScript array properties and methods"
+
+	tearnest2.stpaul.ncr.com - - [13/Jul/1995:18:35:39 -0400] "GET /imagemap.cgi//sts-70/home.map?363,124 HTTP/1.0" 404 -
+	Reason: "Detects JavaScript array properties and methods"
+
+	wolfeman.pdial.interpath.net - - [13/Jul/1995:21:37:58 -0400] "GET /cgi-bin/imagemap/~tfish/oregon.map?445,139 HTTP/1.0" 404 0
+	Reason: "Detects JavaScript array properties and methods"
+
+	137.33.90.78 - - [14/Jul/1995:09:26:16 -0400] "GET /dhp/nl.map?22,19 HTTP/1.0" 404 -
+	Reason: "Detects JavaScript array properties and methods"
+
+	paulpc.tpa.cst.titan.com - - [17/Jul/1995:15:29:21 -0400] "GET /imagemap.cgi//sts-70/home.map?54,172 HTTP/1.0" 404 -
+	Reason: "Detects JavaScript array properties and methods"
+
+	paulpc.tpa.cst.titan.com - - [17/Jul/1995:15:29:26 -0400] "GET /imagemap.cgi//sts-70/home.map?62,178 HTTP/1.0" 404 -
+	Reason: "Detects JavaScript array properties and methods"
+
+	paulpc.tpa.cst.titan.com - - [17/Jul/1995:15:29:29 -0400] "GET /imagemap.cgi//sts-70/home.map?57,205 HTTP/1.0" 404 -
+	Reason: "Detects JavaScript array properties and methods"
+
+	titan02f - - [18/Jul/1995:16:04:32 -0400] "GET /Harvest/cgi-bin/HarvestGather.cgi?host=titan04.ksc.nasa.gov&port=8500&timestamp=0&flag= HTTP/1.0" 200 81
+	Reason: "Detects JavaScript object properties and methods"
+
+	titan02f - - [18/Jul/1995:16:05:18 -0400] "GET /Harvest/cgi-bin/HarvestGather.cgi?host=titan04.ksc.nasa.gov&port=8500&timestamp=0&flag= HTTP/1.0" 200 81
+	Reason: "Detects JavaScript object properties and methods"
+
+	titan02f - - [18/Jul/1995:16:05:31 -0400] "GET /Harvest/cgi-bin/HarvestGather.cgi?host=titan04.ksc.nasa.gov&port=8500&timestamp=0&flag= HTTP/1.0" 200 81
+	Reason: "Detects JavaScript object properties and methods"
+
+	tearnest2.stpaul.ncr.com - - [20/Jul/1995:18:09:53 -0400] "GET /imagemap.cgi//sts-70/home.map?376,223 HTTP/1.0" 404 -
+	Reason: "Detects JavaScript array properties and methods"
+
+	tearnest2.stpaul.ncr.com - - [20/Jul/1995:18:10:00 -0400] "GET /imagemap.cgi//sts-70/home.map?198,222 HTTP/1.0" 404 -
+	Reason: "Detects JavaScript array properties and methods"
+
+	tearnest2.stpaul.ncr.com - - [20/Jul/1995:18:10:07 -0400] "GET /imagemap.cgi//sts-70/home.map?222,221 HTTP/1.0" 404 -
+	Reason: "Detects JavaScript array properties and methods"
+
+	tearnest2.stpaul.ncr.com - - [20/Jul/1995:18:10:27 -0400] "GET /imagemap.cgi//sts-70/home.map?356,210 HTTP/1.0" 404 -
+	Reason: "Detects JavaScript array properties and methods"
+
+	tearnest2.stpaul.ncr.com - - [20/Jul/1995:18:10:33 -0400] "GET /imagemap.cgi//sts-70/home.map?240,111 HTTP/1.0" 404 -
+	Reason: "Detects JavaScript array properties and methods"
+
+	tearnest2.stpaul.ncr.com - - [20/Jul/1995:18:10:43 -0400] "GET /imagemap.cgi//sts-70/home.map?220,99 HTTP/1.0" 404 -
+	Reason: "Detects JavaScript array properties and methods"
+
+	tearnest2.stpaul.ncr.com - - [20/Jul/1995:18:10:51 -0400] "GET /imagemap.cgi//sts-70/home.map?196,286 HTTP/1.0" 404 -
+	Reason: "Detects JavaScript array properties and methods"
+
+	tearnest2.stpaul.ncr.com - - [20/Jul/1995:18:11:54 -0400] "GET /imagemap.cgi//sts-70/home.map?240,111 HTTP/1.0" 404 -
+	Reason: "Detects JavaScript array properties and methods"
+
+	tearnest2.stpaul.ncr.com - - [20/Jul/1995:18:12:07 -0400] "GET /imagemap.cgi//sts-70/home.map?22,16 HTTP/1.0" 404 -
+	Reason: "Detects JavaScript array properties and methods"
+
+	knuth.mtsu.edu - - [22/Jul/1995:01:49:32 -0400] "GET /images/">index of /images HTTP/1.0" 404 -
+	Reason: "Finds html breaking injections including whitespace attacks"
+
+	dd07-011.compuserve.com - - [22/Jul/1995:11:58:19 -0400] "GET /imagemap.cgi//sts-70/landing/landing.map?384,207 HTTP/1.0" 404 -
+	Reason: "Detects JavaScript array properties and methods"
+
+	dd07-011.compuserve.com - - [22/Jul/1995:11:58:31 -0400] "GET /imagemap.cgi//sts-70/landing/landing.map?200,284 HTTP/1.0" 404 -
+	Reason: "Detects JavaScript array properties and methods"
+
+	dd07-011.compuserve.com - - [22/Jul/1995:11:58:40 -0400] "GET /imagemap.cgi//sts-70/landing/landing.map?57,71 HTTP/1.0" 404 -
+	Reason: "Detects JavaScript array properties and methods"
+
+
+	### Impact 3
+	ten-nash.ten.k12.tn.us - - [02/Jul/1995:19:31:24 -0400] "GET /shuttle/missions/missions.htmlhttp:///www.nando.net/smokies/smokies.html HTTP/1.0" 404 -
+	Reason: "Detects common comment types"
+
+	163.205.162.108 - - [06/Jul/1995:09:50:08 -0400] "GET /*.* HTTP/1.0" 404 -
+	Reason: "Detects common comment types"
+
+	bstfirewall.bst.bls.com - - [07/Jul/1995:20:57:21 -0400] "GET /htbin/wais.pl?open+times HTTP/1.0" 200 7855
+	Reason: "Detects very basic XSS probings"
+
+	piweba3y.prodigy.com - - [11/Jul/1995:00:46:51 -0400] "GET /shuttle/missions/sts-*/images/images.html HTTP/1.0" 404 -
+	Reason: "Detects common comment types"
+
+	alyssa.prodigy.com - - [12/Jul/1995:23:56:36 -0400] "GET /shuttle/missions/sts-*/images/images.html HTTP/1.0" 404 -
+	Reason: "Detects common comment types"
+
+	gatekeeper.us.oracle.com - - [14/Jul/1995:21:59:43 -0400] "GET /sts-70/landing/orbiter/*.html HTTP/1.0" 404 -
+	Reason: "Detects common comment types"
+
+	www-b3.proxy.aol.com - - [17/Jul/1995:10:40:08 -0400] "GET /payloads/level4/july4/*.* HTTP/1.0" 404 -
+	Reason: "Detects common comment types"
+
+	www-b3.proxy.aol.com - - [17/Jul/1995:10:40:19 -0400] "GET /payloads/* HTTP/1.0" 404 -
+	Reason: "Detects common comment types"
+
+	www-b3.proxy.aol.com - - [17/Jul/1995:10:40:28 -0400] "GET /payloads/*.* HTTP/1.0" 404 -
+	Reason: "Detects common comment types"
+
+	dpaul.cais.com - - [26/Jul/1995:18:49:53 -0400] "GET /software///icons/blank.xbm HTTP/1.0" 404 -
+	Reason: "Detects common comment types"
+
+	dpaul.cais.com - - [26/Jul/1995:18:50:00 -0400] "GET /software///icons/menu.xbm HTTP/1.0" 404 -
+	Reason: "Detects common comment types"
+
+	dpaul.cais.com - - [26/Jul/1995:18:55:41 -0400] "GET /software///icons/blank.xbm HTTP/1.0" 404 -
+	Reason: "Detects common comment types"
+
+	dpaul.cais.com - - [26/Jul/1995:18:55:42 -0400] "GET /software///icons/menu.xbm HTTP/1.0" 404 -
+	Reason: "Detects common comment types"
+
+	165.213.131.21 - - [26/Jul/1995:23:45:36 -0400] "GET /shuttle/missions/sts-71/images/*.GIF HTTP/1.0" 404 -
+	Reason: "Detects common comment types"
+
+Attack Cross-Site Request Forgery (csrf)
+Attack Spam (spam)
+Attack Local File Inclusion (lfi)
+
+	### Impact 6
+	piweba3y.prodigy.com - - [14/Jul/1995:23:46:07 -0400] "GET /history/appollo/appollo-13/html-"more%20info" HTTP/1.0" 404 -
+	Reason: "Detects classic SQL injection probings 1/2"
+
+
+	### Impact 5
+	berg.pdc.kth.se - - [03/Jul/1995:12:23:05 -0400] "GET /./ HTTP/1.0" 200 7074
+	Reason: "Detects basic directory traversal"
+
+	198.83.13.33 - - [05/Jul/1995:12:50:10 -0400] "GET /home/whats-cool.html HTTP/1.0" 404 -
+	Reason: "Detects specific directory and path traversal"
+
+	198.83.13.33 - - [05/Jul/1995:12:50:25 -0400] "GET /home/whats-cool.html HTTP/1.0" 404 -
+	Reason: "Detects specific directory and path traversal"
+
+	138.13.123.172 - - [06/Jul/1995:18:12:48 -0400] "GET /.../stsref-toc.html HTTP/1.0" 404 -
+	Reason: "Detects basic directory traversal"
+
+	147.147.32.48 - - [07/Jul/1995:10:17:06 -0400] "GET /home/internet-directory.html HTTP/1.0" 404 -
+	Reason: "Detects specific directory and path traversal"
+
+	www-d4.proxy.aol.com - - [09/Jul/1995:12:08:55 -0400] "GET /history/apollo/apolla-13./apollo-13.html HTTP/1.0" 404 -
+	Reason: "Detects basic directory traversal"
+
+	gatekeeper.mitre.org - - [11/Jul/1995:08:41:30 -0400] "GET /history/apo;;o/apollo-13/apollo-13.html HTTP/1.0" 404 -
+	Reason: "Detects basic directory traversal"
+
+	155.35.12.27 - - [12/Jul/1995:12:24:51 -0400] "GET /./ HTTP/1.0" 200 7062
+	Reason: "Detects basic directory traversal"
+
+	gateway.cary.ibm.com - - [12/Jul/1995:15:23:38 -0400] "GET /techweb.cmp.com./techweb/iw/current HTTP/1.0" 404 -
+	Reason: "Detects basic directory traversal"
+
+	ix-dc6-01.ix.netcom.com - - [12/Jul/1995:20:26:34 -0400] "GET /\\www.isisnet.com/home/newnetscape.html HTTP/1.0" 404 -
+	Reason: "Detects specific directory and path traversal"
+
+	137.33.90.78 - - [14/Jul/1995:04:46:30 -0400] "GET /home/whats-cool.html HTTP/1.0" 404 -
+	Reason: "Detects specific directory and path traversal"
+
+	ix-col1-16.ix.netcom.com - - [18/Jul/1995:00:12:18 -0400] "GET /home/mcbryan/WWWW.html HTTP/1.0" 404 -
+	Reason: "Detects specific directory and path traversal"
+
+	titan02f - - [18/Jul/1995:16:08:34 -0400] "GET /Harvest/gatherers/WWW/tmp/ HTTP/1.0" 200 634
+	Reason: "Detects specific directory and path traversal"
+
+	titan02f - - [18/Jul/1995:16:08:36 -0400] "GET /Harvest/gatherers/WWW/tmp/index.html HTTP/1.0" 200 84
+	Reason: "Detects specific directory and path traversal"
+
+	sun1.who.ch - - [18/Jul/1995:20:27:21 -0400] "GET /biomed/threat/ ../glossary/glossary.html HTTP/1.0" 200 2302
+	Reason: "Detects basic directory traversal"
+
+	149.25.43.200 - - [19/Jul/1995:12:27:34 -0400] "GET /home/guided-tour.html HTTP/1.0" 404 -
+	Reason: "Detects specific directory and path traversal"
+
+	149.25.43.200 - - [19/Jul/1995:12:27:38 -0400] "GET /home/whats-new.html HTTP/1.0" 404 -
+	Reason: "Detects specific directory and path traversal"
+
+	149.25.43.200 - - [19/Jul/1995:12:27:40 -0400] "GET /home/faq.html HTTP/1.0" 404 -
+	Reason: "Detects specific directory and path traversal"
+
+	149.25.43.200 - - [19/Jul/1995:12:27:42 -0400] "GET /home/internet-search.html HTTP/1.0" 404 -
+	Reason: "Detects specific directory and path traversal"
+
+	149.25.43.200 - - [19/Jul/1995:12:27:45 -0400] "GET /home/internet-directory.html HTTP/1.0" 404 -
+	Reason: "Detects specific directory and path traversal"
+
+	149.25.43.200 - - [19/Jul/1995:12:28:02 -0400] "GET /home/faq.html HTTP/1.0" 404 -
+	Reason: "Detects specific directory and path traversal"
+
+	149.25.43.200 - - [19/Jul/1995:12:28:05 -0400] "GET /home/welcome.html HTTP/1.0" 404 -
+	Reason: "Detects specific directory and path traversal"
+
+	149.25.43.200 - - [19/Jul/1995:12:28:10 -0400] "GET /home/faq.html HTTP/1.0" 404 -
+	Reason: "Detects specific directory and path traversal"
+
+	149.25.43.200 - - [19/Jul/1995:12:33:10 -0400] "GET /home/internet-search.html HTTP/1.0" 404 -
+	Reason: "Detects specific directory and path traversal"
+
+	168.219.170.214 - - [21/Jul/1995:23:10:07 -0400] "GET /home/whats-new.html HTTP/1.0" 404 -
+	Reason: "Detects specific directory and path traversal"
+
+	knuth.mtsu.edu - - [22/Jul/1995:01:58:10 -0400] "GET /./ HTTP/1.0" 200 7071
+	Reason: "Detects basic directory traversal"
+
+	sun1.who.ch - - [23/Jul/1995:18:16:33 -0400] "GET /biomed/threat/ ../glossary/glossary.html HTTP/1.0" 200 2302
+	Reason: "Detects basic directory traversal"
+
+	sun1.who.ch - - [23/Jul/1995:18:17:10 -0400] "GET /biomed/threat/ ../glossary/bldeagle.html HTTP/1.0" 200 2302
+	Reason: "Detects basic directory traversal"
+
+	163.205.12.176 - - [24/Jul/1995:16:56:43 -0400] "GET /shuttle/missions/sts-70/tmp/images.html HTTP/1.0" 404 -
+	Reason: "Detects specific directory and path traversal"
+
+	piweba4y.prodigy.com - - [27/Jul/1995:21:31:37 -0400] "GET /s.../mission-sts-69.html HTTP/1.0" 404 -
+	Reason: "Detects basic directory traversal"
+
+	piweba4y.prodigy.com - - [27/Jul/1995:21:35:45 -0400] "GET /s.../mission-sts-69.html HTTP/1.0" 404 -
+	Reason: "Detects basic directory traversal"
+
+	piweba4y.prodigy.com - - [27/Jul/1995:21:36:10 -0400] "GET /s.../mission-sts-69.html HTTP/1.0" 404 -
+	Reason: "Detects basic directory traversal"
+
+	piweba4y.prodigy.com - - [27/Jul/1995:21:37:17 -0400] "GET /s.../mission-sts-69.html HTTP/1.0" 404 -
+	Reason: "Detects basic directory traversal"
