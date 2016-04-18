@@ -22,7 +22,10 @@ def get_request_tokens_from_log(file_name, ignore_words, line_parser, line_limit
             if parsed_line['status'] != "200":
                 continue
             
-            parsed_request = parsed_line['request_first_line'].replace("/", " ")
+            parsed_request = parsed_line['request_first_line'].replace("/", " ").strip()
+            
+            if not parsed_request:
+                continue
             
             for word in ignore_words:
                 parsed_request = parsed_request.replace(word, "")
@@ -48,7 +51,9 @@ def get_token_matching_probabilities(file_name, count_vectorizer, line_parser, l
             if parsed_line['status'] != "200":
                 continue
             
-            token_list = parsed_line['request_first_line'].replace("/", " ").split(" ")
+            token_list = parsed_line['request_first_line'].replace("/", " ").strip().split(" ")
+            if len(token_list) == 0:
+                continue
     
             matches = 0
             for token in token_list:
@@ -81,7 +86,10 @@ def get_vocabulary_matches_for_host(filename, match_prop_dict, count_vect, line_
         for line in ins:
             parsed_line = line_parser(line)
             
-            token_list = parsed_line['request_first_line'].replace("/", " ").split(" ")
+            token_list = parsed_line['request_first_line'].replace("/", " ").strip().split(" ")
+    
+            if len(token_list) == 0:
+                continue
     
             matches = 0
             for token in token_list:
@@ -103,6 +111,9 @@ def compute_normality_indexes_for_hosts(filename, match_prop_dict, count_vect, l
     for host in scores_for_host.keys():
         
         for match_score in scores_for_host.get(host):
+            if len(scores_for_host.get(host)) >= 10:
+                continue
+                
             if match_prop_dict.has_key(match_score):
                 if prob_of_sequence.has_key(host) == False:
                     prob_of_sequence[host] = 1
@@ -142,7 +153,7 @@ def compute_normality_indexes_using_runs_test(filename, low_scores, match_prop_d
     
     for host in scores_for_hosts.keys():
         #Runs test only works for larger sized samples
-        if len(scores_for_hosts.get(host)) < 10:
+        if len(scores_for_hosts.get(host)) < 5:
             continue
         
         binary_host_scores = []
