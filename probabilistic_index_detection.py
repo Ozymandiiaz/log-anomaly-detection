@@ -8,13 +8,15 @@ import apache_log_parser
 from sklearn.feature_extraction.text import CountVectorizer
 from anomaly_detection import *
 
-filename = "log_files/access_log_Jul95-3"
-filename_short = "log_files/access_log_Jul95-3_end"
+filename = "log_files/NASA-logs-mod/xaa"
+filename_short = "log_files/NASA-access_log_Jul95-3_end"
 
 line_parser = apache_log_parser.make_parser("%h - - %t \"%r\" %>s %b")
 ignore_words_list = ["GET", "HTTP", "1.0", ]
 request_tokens = get_request_tokens_from_log(filename, ignore_words_list, line_parser, 10000)
         
+print request_tokens
+
 count_vect = CountVectorizer()
 X_train_counts = count_vect.fit_transform(request_tokens)
 X_train_counts.shape

@@ -7,28 +7,37 @@ import apache_log_parser
 
 from sklearn.feature_extraction.text import CountVectorizer
 from anomaly_detection import *
+import logging
 
-#filename = "log_files/Aug28_log"
-#filename_short = "log_files/Aug28_log_end"
+logging.basicConfig(level=logging.INFO)
 
-filename = "log_files/access_log_Jul95-3"
-filename_short = "log_files/access_log_Jul95-3_end"
+filename_learning = "log_files/test_case_2/xaa"
+filenam_prob = "log_files/test_case_2/xab"
+filename_short = "log_files/NASA-access_log_Jul95-3_end"
+
+#filename_learning = "log_files/test_case_1/learning-test-case-1"
+#filenam_prob  = "log_files/test_case_1/probabilities-test-case-1"
+#filename_short = "log_files/test_case_1/analysis-test-case-1"
 
 line_parser = apache_log_parser.make_parser("%h - - %t \"%r\" %>s %b")
-ignore_words_list = ["GET", "HTTP", "1.0"]
-request_tokens = get_request_tokens_from_log(filename, ignore_words_list, line_parser, 100000)
-        
+ignore_words_list = ["get", "http", "gif"]
+
+request_tokens = get_request_tokens_from_log(filename_learning, ignore_words_list, line_parser, 10000)
+
 count_vect = CountVectorizer()
 X_train_counts = count_vect.fit_transform(request_tokens)
 X_train_counts.shape
 
-match_prop_dict = get_token_matching_probabilities(filename, count_vect, line_parser, 100000)
+#logging.info("Vocabulary Generated: " + count_vect.vocabulary_.__str__())
 
-normality_indexes = compute_normality_indexes_using_runs_test(filename_short, [0], match_prop_dict, count_vect, line_parser)
+match_prop_dict = get_token_matching_probabilities(filenam_prob, count_vect, line_parser, 10000, True)
 
-sorted_normality_indexes = sorted(normality_indexes.items(), key=operator.itemgetter(1))
+logging.info("Token Matching Probabilities: " + match_prop_dict.__str__())
 
-print(match_prop_dict)
-print(sorted_normality_indexes)
-print get_requests_and_scores_for_host(filename_short, "myserv.edu", match_prop_dict, count_vect, line_parser)
+normality_indexes = compute_normality_indexes_using_runs_test(filename_short, 1, match_prop_dict, count_vect, line_parser, True)
 
+logging.info("Normality Indexes: " + normality_indexes.__str__())
+
+sorted_normality_indexes = sorted(normality_indexes.items(), key=operator.itemgetter(1), reverse=False)
+
+logging.info(sorted_normality_indexes)
